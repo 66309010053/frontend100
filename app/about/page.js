@@ -12,8 +12,7 @@ export default function about() {
                         alt="Card Image"></img>
                     <div class="card-body text-center">
                         <h5 class="card-title">เกมแนะนำ</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
+                        <p class="card-text">ว่าไนดำ่ด่่ดร่เ่ว่าไงสุดหล่อบาดว่าไงสุดหล่อ</p>
                         <a href="#" class="btn btn-primary">Button</a>
                     </div>
                 </div>
